@@ -1,5 +1,0 @@
-# Ambientes-ADS
-
-TESTE
-
-asdasda
